@@ -10,3 +10,4 @@ Bemutató repozitórium
 * Matematika I.
 * Erdészeti Ismeretek.
 * Környezetvédelem.
+# Órarend: https://neptun3r.nyme.hu/
