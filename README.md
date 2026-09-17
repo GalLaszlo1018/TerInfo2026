@@ -10,6 +10,6 @@ Bemutató repozitórium
 * Matematika I.
 * Erdészeti Ismeretek.
 * Környezetvédelem.
-  Hol látom az órakezdő időpontokat?
+* Hol látom az órakezdő időpontokat?
   # Órarend: https://neptun3r.nyme.hu/
 
