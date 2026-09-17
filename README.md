@@ -1,2 +1,12 @@
 # TerInfo2026
-Bemutató rezitórium
+Bemutató repozitórium
+
+## Idei tanóráim:
+
+* Térinformatikai Alkalmazások.
+* Geoinformatika I.
+* Testnevelés 3.
+* Rendszerszervezés.
+* Matematika I.
+* Erdészeti Ismeretek.
+* Környezetvédelem
