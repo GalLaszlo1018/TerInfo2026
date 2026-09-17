@@ -10,4 +10,4 @@ Bemutató repozitórium
 * Matematika I.
 * Erdészeti Ismeretek.
 * Környezetvédelem.
-Hol találom az óráim időpontját?
+* Hol találom az óráim időpontját?
