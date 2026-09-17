@@ -11,4 +11,5 @@ Bemutató repozitórium
 * Erdészeti Ismeretek.
 * Környezetvédelem.
   Hol látom az órakezdő időpontokat?
-# Órarend: https://neptun3r.nyme.hu/
+  # Órarend: https://neptun3r.nyme.hu/
+
