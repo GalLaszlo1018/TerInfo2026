@@ -9,4 +9,4 @@ Bemutató repozitórium
 * Rendszerszervezés.
 * Matematika I.
 * Erdészeti Ismeretek.
-* Környezetvédelem
+* Környezetvédelem.
