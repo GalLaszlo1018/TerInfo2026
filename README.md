@@ -21,3 +21,4 @@ Bemutató repozitórium
 * Kedd
 * Szerda
 * Csütörtök
+* Hol találom az óráim időpontját?
